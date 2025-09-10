@@ -1,12 +1,12 @@
-## Places-near-me Software – SRS Document
+# Places-near-me Software – SRS Document
 
-# Al-Azhar University – Gaza
-# Faculty of Engineering & Information Technology
-# Department of Software Engineering
+- Al-Azhar University – Gaza
+- Faculty of Engineering & Information Technology
+- Department of Software Engineering
 
-Prepared by: Sally Mohammed Abd-Alatti
-Supervised by: Eng. Heba Abu Skhail
-Semester: I 2022/2023
+- Prepared by: Sally Mohammed Abd-Alatti
+- Supervised by: Eng. Heba Abu Skhail
+- Semester: I 2022/2023
 
 ## 1. Project Overview
 - Places-near-me is a mobile application designed to help users find facilities near their location.
